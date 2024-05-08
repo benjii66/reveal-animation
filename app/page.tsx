@@ -57,7 +57,6 @@ export default function Home() {
             height={1000} 
             alt="Tekken Logo"
             className="hero_title relative bottom-96 overflow-hidden h-fit leading-none xl:pt-[100px]" />
-            {/* <span className="hero_title relative -bottom-96">Tekken <span className="text-red-700">8</span></span>  */}
           <div className="flex justify-between items-end w-full">
             <div>
               <p className=" leading-none text-[3vw] h-fit overflow-hidden">
