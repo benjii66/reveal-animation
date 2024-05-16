@@ -38,7 +38,7 @@ export default function Home() {
   }, []);
   return (
     <main className="rounded-3xl bg-white h-screen overflow-y-scroll no-scrollbar relative flex justify-center items-center">
-      <section className="clip_path-container absolute inset-0 bg-bruno-white mt-[100vh] ">
+      <section className="clip_path-container absolute inset-0 bg-benjamin-white mt-[100vh] ">
         <div className="w-screen h-screen absolute">
           <video
             preload="none"
@@ -51,7 +51,7 @@ export default function Home() {
             Your browser does not support the video tag.
           </video>
         </div>
-        <div className="mx-auto max-w-screen-2xl relative z-10 px-base py-xxxl text-bruno-white h-full w-full text-center sm:text-left flex flex-col items-center sm:items-start justify-between">
+        <div className="mx-auto max-w-screen-2xl relative z-10 px-base py-xxxl text-benjamin-white h-full w-full text-center sm:text-left flex flex-col items-center sm:items-start justify-between">
             <Image src="/T8.png" 
             width={1000} 
             height={1000} 
@@ -70,7 +70,7 @@ export default function Home() {
                 </span>
               </p>
             </div>
-            <button className="text-[2vw] group hover:text-black duration-300 border-2 border-bruno-white  px-base overflow-hidden rounded-full backdrop-blur-2xl">
+            <button className="text-[2vw] group hover:text-black duration-300 border-2 border-benjamin-white  px-base overflow-hidden rounded-full backdrop-blur-2xl">
               <span className="w-0 group-hover:w-full rounded-full h-full group-hover:opacity-100 duration-300 bg-white absolute right-0 opacity-10"></span>
               <span className="hero_button relative font-bebas pt-1">Explore</span>
             </button>

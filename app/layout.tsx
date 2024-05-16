@@ -19,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body data-barba="wrapper" className="bg-bruno-black">
+      <body data-barba="wrapper" className="bg-benjamin-black">
         <div className="content_container">
           {/* <MainMenu /> */}
           {children}

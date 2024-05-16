@@ -60,7 +60,7 @@ const config: Config = {
         "fluid-display-3xl": createFluidValue(50, 270),
       },
       colors: {
-        bruno: {
+        benjamin: {
           grey: "#BFBDBE",
           white: "#F2F2F2",
           black: "#0D0D0D",
